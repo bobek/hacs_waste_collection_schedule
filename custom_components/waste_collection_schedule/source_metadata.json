@@ -1569,6 +1569,14 @@
     },
     "urls": {}
   },
+  "obechyskov_cz": {
+    "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/source/obechyskov_cz.md",
+    "howto": {
+      "de": "Es sind keine Argumente erforderlich. Die Quelle deckt die gesamte Gemeinde Hýskov ab.",
+      "en": "No arguments are required. The source covers the whole village of Hýskov."
+    },
+    "urls": {}
+  },
   "ics_svoz_litovle_cz": {
     "docs_url": "https://github.com/mampfes/hacs_waste_collection_schedule/blob/master/doc/ics/svoz_litovle_cz.md",
     "howto": {

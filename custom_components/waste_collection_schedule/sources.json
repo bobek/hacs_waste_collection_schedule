@@ -5740,6 +5740,12 @@
       "id": "ics_detmarovice_glembovec_cz"
     },
     {
+      "title": "H\u00fdskov",
+      "module": "obechyskov_cz",
+      "default_params": {},
+      "id": "obechyskov_cz"
+    },
+    {
       "title": "Litovel",
       "module": "ics",
       "default_params": {},
